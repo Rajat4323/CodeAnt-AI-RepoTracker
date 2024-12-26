@@ -4,7 +4,7 @@
 CodeAnt AI RepoTracker is a cutting-edge web application developed using React that enables developers to effectively oversee and evaluate their GitHub repositories. It offers a user-friendly platform for repository organization, code insights, and team collaboration.
 
 ### Live Demo
-✨ [Check out CodeAnt AI RepoTracker]
+✨ [Check out CodeAnt AI RepoTracker](https://code-ant-ai-repo-tracker.vercel.app/)
 
 ## Features
 
@@ -41,7 +41,7 @@ CodeAnt AI RepoTracker is a cutting-edge web application developed using React t
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/Rajat4323/CodeAnt-AI-RepoTracker.git
 ```
 
 Go to the project directory
@@ -106,8 +106,6 @@ codeant-ai-repotracker/
 
 ![Main Dashboard View](public/output/Repo-Rajat.png)
 
-### Page Under Development
-![Theme Settings](public/output/Under-Construction.png)
 
 ### 🤝 Connect with me:
 
