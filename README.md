@@ -10,21 +10,21 @@ CodeAnt AI RepoTracker is a cutting-edge web application developed using React t
 
 - **Effortless Authentication**
 
- - Supports both SAAS and self-hosted environments
- - Ensures secure user sessions
- - Designed with a focus on privacy
+  - Supports both SAAS and self-hosted environments
+  - Ensures secure user sessions
+  - Designed with a focus on privacy
 
 - **Efficient Repository Management**
 
- - Instantly search and filter repositories
- - Rapid repository updates
- - Visual representation of repository metrics
- - User-friendly repository overview
+  - Instantly search and filter repositories
+  - Rapid repository updates
+  - Visual representation of repository metrics
+  - User-friendly repository overview
 
 - **Contemporary UI/UX**
 
- - Sleek and adaptive design
- - Optimized for mobile usage
+  - Sleek and adaptive design
+  - Optimized for mobile usage
 
 ## Tech Stack
 
